@@ -1,0 +1,1 @@
+Some sort of time logging system but based on 'real life' tasks, and learns about what you use to achieve those real goals using applications. Capable of producing a work log which makes more sense than simply which apps you had open.
