@@ -1,2 +1,4 @@
 Some sort of time logging system but based on 'real life' tasks, and learns about what you use to achieve those real goals using applications. Capable of producing a work log which makes more sense than simply which apps you had open.
-80 character wrap around parser which can run through directories, decide on the language and appropriately condense it into readable lines.
+CRLF - 80 character wrap around parser which can run through directories, decide on the language and appropriately condense it into readable lines.
+
+Rogue-like 'Hero' based RPG, to run at terminal. Ncurses?
