@@ -7,3 +7,5 @@ Some sort of time logging system but based on 'real life' tasks, and learns abou
 
 Wordpress split view for different blog topics on the same domain.
 Jira, Jenkins, plugin for daily email digest of exciting happenings and required tasks.
+
+Offset twitter feed
