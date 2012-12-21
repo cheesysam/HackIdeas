@@ -1,11 +1,8 @@
-CRLF - 80 character wrap around parser which can run through directories, decide on the language and appropriately condense it into readable lines.
-
 Real time image processing to detect objects in video. Start with picking up straight edges in still images, then in video. This would be even cooler if it could run on a phone.
 
 Rogue-like 'Hero' based RPG, to run at terminal. Ncurses?
 Some sort of time logging system but based on 'real life' tasks, and learns about what you use to achieve those real goals using applications. Capable of producing a work log which makes more sense than simply which apps you had open.
 
-Wordpress split view for different blog topics on the same domain.
-Jira, Jenkins, plugin for daily email digest of exciting happenings and required tasks.
-
-Offset twitter feed
+Super simple vst host
+Control vst from command line with midi sends
+midi band in a script
